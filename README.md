@@ -9,6 +9,7 @@ Created for Module 4 of Data Fundamentals course
 `py -m venv .venv`  
 5. Activate the virtual environment:  
 `.venv\Scripts\activate`  
-Create requirements.txt
-Update pip
-Install requirements.txt
+6. Create requirements.txt
+7. Commit changes
+8. Update pip & install requirements
+```py -m pip install --upgrade pip setuptools wheel  py -m pip install -r requirements.txt```  
