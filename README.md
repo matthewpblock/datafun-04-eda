@@ -13,3 +13,4 @@ Created for Module 4 of Data Fundamentals course
 7. Commit changes
 8. Update pip & install requirements
 ```py -m pip install --upgrade pip setuptools wheel  py -m pip install -r requirements.txt```  
+9. Set correct interpreter & kernel  
